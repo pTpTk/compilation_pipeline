@@ -1,0 +1,12 @@
+[submodule "compiler"]
+	path = compiler
+	url = git@github.com:pTpTk/compiler.git
+    branch = x64
+[submodule "assembler"]
+	path = assembler
+	url = git@github.com:pTpTk/assembler.git
+    branch = x64
+[submodule "linker"]
+	path = linker
+	url = git@github.com:pTpTk/linker.git
+    branch = x64
